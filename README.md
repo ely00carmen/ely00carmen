@@ -9,8 +9,6 @@
   <img src="./data_scientist.png" alt="Ely Portillo | Data Scientist" width="100%" />
 </p>
 
-<h1 align="center">Hola soy Ely. ¡Encantada de conocerte! 👋</h1>
-
 ---
 
 ### 🧑‍💻 Sobre mí
