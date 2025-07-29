@@ -7,4 +7,6 @@
 
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/-eportillob@unsa.edu.pe-D14836?style=flat&logo=gmail&logoColor=white&label=Correo&labelColor=101010)](mailto:eportillob@unsa.edu.pe)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ely-portillo-bautista/)
+
  
